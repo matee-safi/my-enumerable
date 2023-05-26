@@ -65,6 +65,12 @@ To run the project execute the command below
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 **Matee Safi**
+
+- GitHub: [@matee-safi](https://github.com/matee-safi)
+- Twitter: [@matee_safi](https://twitter.com/matee_safi)
+- LinkedIn: [matee-safi/](https://www.linkedin.com/in/matee-safi/)
+
 👤 **Okpah Igbo**
 
 - GitHub: [@david30-maker](https://github.com/david30-maker)
