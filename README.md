@@ -20,13 +20,13 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖Vet_Clinic Database
+# 📖 enumerable
 
 <a name="about-project"></a>
 
-# Vet_Clinic Database
+# enumerable
 
-The vet_clinic database is application that allows the users to access database of every animal in veternary clinic
+This is enumeration in ruby programming language
 
 
 
@@ -34,20 +34,18 @@ The vet_clinic database is application that allows the users to access database 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Tobe updated]
+- [To be updated]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🛠 Built With <a name="built-with"></a>
 
-  - SQL POSTGRESQL
+  - Ruby
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Key Features
 
-- Table
-- Data for eah animal
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,11 +56,11 @@ To get a local copy up and running follow these simple example steps.
 
 Clone this repository to your desired folder:
 `cd my-folder`
-`git clone git@github.com:david30-maker/animal-database.git`
+`git clone git@github.com:matee-safi/my-enumerable.git`
 
 To run the project execute the command below
 
-`execute query`
+
 
 
 ## 👥 Authors <a name="authors"></a>
