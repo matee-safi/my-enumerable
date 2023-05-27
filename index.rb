@@ -1,6 +1,6 @@
-require_relative 'MyList'
+require_relative 'list'
 # Create our list
-list = MyList.new(1, 2, 3, 4)
+list = List.new(1, 2, 3, 4)
 
 # Test #all?
 puts(list.all? { |e| e < 5 })
