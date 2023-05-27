@@ -46,6 +46,7 @@ This is enumeration in ruby programming language
 
 ### Key Features
 
+- Filter your array of numbers however you want.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,6 +89,7 @@ To run the project execute the command below
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- We'll keep you posted on any future features
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
